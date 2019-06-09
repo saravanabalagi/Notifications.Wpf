@@ -7,8 +7,8 @@
     <ProjectGuid>{5C9A4F46-263D-4C23-B361-F09E14BB109E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Notifications.Wpf</RootNamespace>
-    <AssemblyName>Notifications.Wpf</AssemblyName>
+    <RootNamespace>Notifications.Wpf.Sarav</RootNamespace>
+    <AssemblyName>Notifications.Wpf.Sarav</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
